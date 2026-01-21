@@ -2,6 +2,8 @@
 
 Define each term below by writing a paragraph explaining what it is and why it's important for web development. Include 2-3 relevant links for more information.
 
+
+
 ## Web Components
 Web Components are a suite of different technologies allowing you to create reusable custom elements—with their functionality encapsulated away from the rest of your code—and utilize them in your web apps. They are built on three main technologies: Custom Elements, Shadow DOM, and HTML Templates. They are vital for web development because they provide a standardized way to build UI components that are platform-agnostic, meaning they work in any framework and prevent CSS or JS "leaks" that can break other parts of a site.
 
